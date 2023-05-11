@@ -10,11 +10,7 @@ import Header from './components/Header';
 function App() {
   return (
     <>
-    <Home />
-    <Routes>
-     
-    <Route path='/about' component={About} />
-    </Routes>
+    <Home/>
     </>
   )
 }
